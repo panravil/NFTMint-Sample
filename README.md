@@ -10,5 +10,7 @@ https://crypto-bongs.vercel.app/
 npm run dev
 #### or
 npm run frontend
+
 npm run backend
+
 (frontend port: localhost:3000, backend port: localhost:5000)
